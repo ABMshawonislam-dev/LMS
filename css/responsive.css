@@ -1,0 +1,329 @@
+@media(max-width:575px){
+    nav ul{
+        background: #F3F8FF;
+    }
+    
+    nav .button-area {
+        background: #F3F8FF;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-left: 0;
+    }
+
+    #banner-part .cornar{
+        margin-top: 0;
+    }
+
+    #banner-part .box{
+        display: inline-block;
+        margin: 0 10px;
+        margin-top: 20px;
+    }
+
+    #banner-part .box:after{
+        width: 0px;
+    }
+
+    #banner-part .box h2{
+        font-size: 45px;
+    }
+
+    #banner-part .box .counter-text{
+        font-size: 15px;
+    }
+
+    #search-part{
+        transform: translateX(0);
+    }
+
+    #search-part .search input{
+        margin-bottom: 20px;
+    }
+
+    #search-part button {
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+
+    #feature-part .author-details span{
+        font-size: 17px;
+    }
+
+    #feature-part .item {
+        margin-bottom: 30px;
+    }
+
+    #feature-part .pricing-details a {
+        font-size: 17px;
+        padding: 7px 9px;
+    }
+
+    #feature-part .button a{
+        margin-top: 0;
+    }
+
+    #offer-part .offer-details h3{
+        font-size: 50px;
+    }
+
+    #offer-part .offer-details .details{
+        width: auto;
+    }
+
+    #feedback-part .slick-list {
+        height: 565px;
+    }
+
+    #feedback-part .item .name{
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    #feedback-part .item .name h3{
+        margin-top: 10px;
+    }
+
+    #footer-part h4{
+        margin-top: 40px;
+    }
+
+    #footer-part input{
+        width: 65%;
+    }
+
+    #feedback-part .item .name img{
+        position: static;
+    }
+    
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+    nav ul{
+        background: #F3F8FF;
+    }
+    
+    nav .button-area {
+        background: #F3F8FF;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-left: 0;
+    }
+
+    #banner-part .cornar{
+        margin-top: 0;
+    }
+
+    #banner-part .box{
+        display: inline-block;
+        margin: 0 25px;
+        margin-top: 20px;
+    }
+
+    #banner-part .box:after{
+        width: 0px;
+    }
+
+  
+
+    #search-part{
+        transform: translateX(0);
+    }
+
+    #search-part .search input{
+        margin-bottom: 20px;
+    }
+
+    #search-part button {
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+
+    #feature-part .author-details span{
+        font-size: 17px;
+    }
+
+    #feature-part .item {
+        margin-bottom: 30px;
+    }
+
+    #feature-part .pricing-details a {
+        font-size: 17px;
+        padding: 7px 9px;
+    }
+
+    #feedback-part .item p{
+        font-size: 15px;
+    }
+
+    #feature-part .button a{
+        margin-top: 0;
+    }
+
+    #offer-part .offer-details h3{
+        font-size: 50px;
+    }
+
+    #offer-part .offer-details .details{
+        width: auto;
+    }
+
+    #feedback-part .slick-list {
+        height: 565px;
+    }
+
+    #feedback-part .item .name{
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    #feedback-part .item .name h3{
+        margin-top: 10px;
+    }
+
+    #footer-part h4{
+        margin-top: 40px;
+    }
+
+    #footer-part input{
+        width: 65%;
+    }
+
+    #feedback-part .item .name img{
+        position: static;
+    }
+    
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+    nav ul{
+        background: #F3F8FF;
+    }
+    
+    nav .button-area {
+        background: #F3F8FF;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-left: 0;
+    }
+
+    #banner-part .cornar{
+        margin-top: 0;
+    }
+
+    #banner-part .box{
+        display: inline-block;
+        margin: 0 25px;
+        margin-top: 20px;
+    }
+
+    #banner-part .box:after{
+        width: 0px;
+    }
+    
+
+    #feature-part .course-details h2{
+        font-size: 25px;
+    }
+
+    #feature-part .course-details p{
+        font-size: 15px;
+    }
+
+    
+
+    #feature-part .author-details span{
+        font-size: 17px;
+        width: 100%;
+    }
+
+    #feature-part .author-details span:nth-child(even){
+        text-align: left;
+    }
+
+    #feature-part .item {
+        margin-bottom: 30px;
+    }
+
+    #feature-part .pricing-details a {
+        font-size: 17px;
+        margin-left: 0;
+    }
+
+    #feedback-part .item p{
+        font-size: 15px;
+    }
+
+    #feature-part .button a{
+        margin-top: 0;
+    }
+
+    #offer-part .offer-details h3{
+        font-size: 50px;
+    }
+
+    #offer-part .offer-details .details{
+        width: auto;
+    }
+
+    #feedback-part .slick-list {
+        height: 470px;
+    }
+
+    #feedback-part .item .name{
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    #feedback-part .item .name h3{
+        margin-top: 10px;
+    }
+
+    #footer-part h4{
+        margin-top: 40px;
+    }
+
+    #footer-part input{
+        width: 65%;
+    }
+
+    #feedback-part .item .name img{
+        position: static;
+    }
+    
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    nav ul li{
+        margin-left: 18px;
+    }
+
+    #banner-part .cornar{
+        font-size: 13px;
+    }
+
+    #banner-part h1 .learn{
+        font-size: 73px;
+    }
+
+    #banner-part h1 .on{
+        font: 48px;
+    }
+
+    #search-part button {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    #feature-part .author-details span{
+        font-size: 17px;
+    }
+
+    #feature-part .pricing-details a {
+        font-size: 18px;
+        padding: 7px 7px;
+    }
+}
