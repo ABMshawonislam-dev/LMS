@@ -23,9 +23,7 @@ p{
     margin: 0;
 }
 
-.title{
-    margin-bottom: 80px;
-}
+
 
 .title h2{
     font-family: 'Teko', sans-serif;
@@ -362,34 +360,37 @@ nav .button-area a{
             feature css start
 ===========================================*/
 #feature-part{
-    margin-top: 100px;
+    margin-top: 30px;
    
 }
-
+/* 
 #feature-part .item{
     box-shadow: 0px 1px 10px -1px rgba(0, 0, 0,.3);
-}
+} */
 
 #feature-part .img img{
     width: 100%;
 }
 
 
+
+
 #feature-part .course-details{
-    text-align: center;
-    padding: 0 5px;
-    border-bottom: 1px solid #F1F1F1;
-    padding-bottom: 20px;
+    text-align: left;
+    /* padding: 0 5px; */
+    /* border-bottom: 1px solid #F1F1F1;
+    padding-bottom: 20px; */
+    
 
 }
 
 #feature-part .course-details h2{
     font-family: 'Teko', sans-serif;
-    font-size: 32px;
+    font-size: 1.4rem;
+    line-height: 1;
     font-weight: 500;
     color: #324252;
-    margin-top: 34px;
-    margin-bottom: 20px;
+    margin-top: 15px;
 }
 
 #feature-part .course-details p{
@@ -398,14 +399,14 @@ nav .button-area a{
     color: #444444;
 }
 
-#feature-part .author-details{
+/* #feature-part .author-details{
     padding: 23px;
-}
+} */
 
 #feature-part .author-details span{
     display: inline-block;
     font-family: 'Teko', sans-serif;
-    font-size: 22px;
+    font-size: 1.2rem;
     color: #999999;
     width: 49%;
 }
@@ -415,13 +416,13 @@ nav .button-area a{
 }
 
 #feature-part .pricing-details{
-    padding: 0 23px;
-    padding-bottom: 40px;
+    /* padding: 0 23px; */
+    /* padding-bottom: 40px; */
 }
 
 #feature-part .pricing-details span{
     font-family: 'Teko', sans-serif;
-    font-size: 32px;
+    font-size: 1.4rem;
     font-weight: 500;
     color: #454696;
 }
@@ -429,18 +430,29 @@ nav .button-area a{
 
 #feature-part .pricing-details del{
     font-family: 'Teko', sans-serif;
-    font-size: 22px;
+    font-size: 1.4rem;
     font-weight: 400;
     color: #999999;
 }
 
+#feature-part .rating{
+    font-family: 'Teko', sans-serif;
+    font-size: 1.2rem;
+    color: #be5a0e;
+}
+
+#feature-part .rating svg{
+    font-size: 15px;
+    color: #eb8a2f;
+}
+
 #feature-part .pricing-details a{
     font-family: 'Teko', sans-serif;
-    font-size: 22px;
+    font-size: 1.2rem;
     font-weight: 500;
     background: #454696;
     border-radius: 5px;
-    padding: 7px 30px;
+    padding: 2px 13px;
     color: #fff;
     display: inline-block;
     margin-left: 43px;
@@ -471,8 +483,8 @@ nav .button-area a{
 ===========================================*/
 #offer-part{
     background: #484898;
-    margin-top: 100px;
-    padding: 60px 0;
+    margin-top: 30px;
+    padding: 30px 0;
 }
 
 #offer-part .offer-details{
@@ -482,13 +494,13 @@ nav .button-area a{
 
 #offer-part .offer-details .find{
     font-family: 'Teko', sans-serif;
-    font-size: 32px;
+    font-size: 1.9rem;
     font-weight: 300;
 }
 
 #offer-part .offer-details h3{
     font-family: 'Teko', sans-serif;
-    font-size: 64px;
+    font-size: 3.2rem;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -509,7 +521,7 @@ nav .button-area a{
     background: #ffffff;
     padding: 7px 30px;
     border-radius: 5px;
-    margin-top: 40px;
+    /* margin-top: 40px; */
 }
 /*=========================================
             offer css end
@@ -519,7 +531,7 @@ nav .button-area a{
             feedback css start
 ===========================================*/
 #feedback-part{
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 #feedback-part .slick-list{
@@ -605,7 +617,7 @@ nav .button-area a{
             footer css start
 ===========================================*/
 #footer-part{
-    margin-top: 100px;
+    margin-top: 30px;
     background: #324252;
     color: #fff;
     padding: 60px 0;
